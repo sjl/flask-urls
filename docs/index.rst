@@ -11,13 +11,13 @@ Installation
 
 Install flask-urls with `pip`_::
 
-    pip install -e 'hg+http://bitbucket.org/sjl/flask-urls@v0.9.0#egg=flask-urls'
+    pip install -e 'hg+http://bitbucket.org/sjl/flask-urls@v0.9.1#egg=flask-urls'
 
 Prefer `git`_ to `Mercurial`_?
 
 ::
 
-    pip install -e 'git+http://github.com/sjl/flask-urls.git@v0.9.0#egg=flask-urls'
+    pip install -e 'git+http://github.com/sjl/flask-urls.git@v0.9.1#egg=flask-urls'
 
 .. _pip: http://pip.openplans.org/
 .. _git: http://git-scm.com/
