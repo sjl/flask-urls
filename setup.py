@@ -18,7 +18,7 @@ from setuptools import setup
 
 setup(
     name='flask-urls',
-    version='0.9.1'
+    version='0.9.2',
     url='http://sjl.bitbucket.org/flask-urls/',
     license='MIT',
     author='Steve Losh',
